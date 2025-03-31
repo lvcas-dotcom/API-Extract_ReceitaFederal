@@ -17,6 +17,20 @@ Esta API permite a extração eficiente dos dados do **CNPJ** disponibilizados p
 
 ---
 
+## 🔄 Como Funciona?  
+
+1️⃣ **Coleta:** A API baixa os arquivos disponibilizados pela Receita Federal.  
+2️⃣ **Extração:** Os arquivos são descompactados na pasta especificada no script.  
+3️⃣ **Banco de Dados:** Cria uma database no banco de dados escolhido.  
+4️⃣ **Estruturação:** Gera automaticamente as tabelas necessárias.  
+5️⃣ **Carga:** Insere os dados extraídos diretamente no banco.  
+
+## 📊 Estrutura do Banco  
+
+![Estrutura do Banco](https://github.com/aphonsoar/Receita_Federal_do_Brasil_-_Dados_Publicos_CNPJ/blob/master/Dados_RFB_ERD.png)  
+
+---
+
 ## 🚀 Como Usar  
 
 1️⃣ Clone o repositório  
