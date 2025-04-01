@@ -36,5 +36,6 @@ Esta API permite a extração eficiente dos dados do **CNPJ** disponibilizados p
 1️⃣ Clone o repositório  
 2️⃣ Configure o arquivo .env_template
 3️⃣ Rode a API apartir do arquivo .py
+
 ```bash
 git clone https://github.com/lvcas-dotcom/API-Extract_ReceitaFederal.git
